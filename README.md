@@ -1,1 +1,1 @@
-# Angular-Dice
+# TypeScript-Dice
